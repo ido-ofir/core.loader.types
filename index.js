@@ -1,6 +1,6 @@
 
 module.exports = {
-    name: 'core.plugin.types',
+    name: 'core.loader.types',
     init(definition, done){
         
         var core = this;
